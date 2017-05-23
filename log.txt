@@ -1,0 +1,16 @@
+Looking for images in 'Rhynchostylis retusa'
+Looking for images in 'Epidendrum Stamfordianum'
+Looking for images in 'Doritaenopsis Chain Xen Diamond Celebration'
+Looking for images in 'Dendrobium Mini splash'
+Looking for images in 'Cattleya Myrmecophiala tibicinis'
+Looking for images in 'Cattleya labiata'
+Looking for images in 'Cattleya Arctic Star ‘Snow Queen''
+Looking for images in 'Bulbophyllum smitinandii'
+Looking for images in 'Vanda insignis'
+Looking for images in 'V.Hilo Rose x V.Bitz's Heartthrob'
+Looking for images in 'Ascocentrum curvifolium'
+Looking for images in 'Aerides multiflora Roxb'
+100 bottleneck files created.
+200 bottleneck files created.
+300 bottleneck files created.
+Creating bottleneck at bottlenecks/Aerides multiflora Roxb/pic_078.jpg.txt
